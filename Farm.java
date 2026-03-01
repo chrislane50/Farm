@@ -45,7 +45,7 @@ public class Farm extends Application {
                         log("Added Chicken " + c + System.lineSeparator());
                         c.display();
                     } catch (NumberFormatException ex) {
-                        showError("Input Error", "Check that initial number of eggs is a valid number.");
+                        showError("Input Error!", "Check that initial number of eggs is a valid number.");
                     }
             });
 
