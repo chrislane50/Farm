@@ -8,6 +8,6 @@ public class Chicken extends Animal {
     @Override public void display() { 
         System.out.println("Chicken");
         super.display();
-        System.out.println("egg=" + egg);
+        System.out.println("eggs=" + egg);
     }
 }
