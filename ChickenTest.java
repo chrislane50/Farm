@@ -18,6 +18,7 @@ public class ChickenTest
      */
     public ChickenTest()
     {
+        //hello
     }
 
     /**
